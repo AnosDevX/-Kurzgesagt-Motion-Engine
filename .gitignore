@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Render outputs & temporary files
+*.mp4
+*.wav
+*.mp3
+sheet.png
+output/
+tmp/
+temp/
+*.log
+meta.json
+voice_src
+input.srt
+probe.mp4
+silent.mp4
+mix.wav
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

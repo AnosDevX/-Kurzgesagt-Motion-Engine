@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" fill="none">
+  <!-- Background circular glow/halo -->
+  <circle cx="128" cy="128" r="105" fill="#1e1035" opacity="0.95"/>
+  <circle cx="128" cy="128" r="95" fill="#2d1b54"/>
+  
+  <!-- Ambient planetary ring behind -->
+  <path d="M 38 145 C 50 175, 190 175, 218 145" stroke="#f43f5e" stroke-width="8" stroke-linecap="round" opacity="0.6"/>
+  <path d="M 32 142 C 48 178, 202 178, 224 142" stroke="#fb923c" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+
+  <!-- Stylized Kurzgesagt Planet / Moon -->
+  <circle cx="128" cy="122" r="68" fill="#3b82f6"/>
+  <!-- Planet shading/crater -->
+  <path d="M 128 54 A 68 68 0 0 1 196 122 A 68 68 0 0 1 128 190 C 160 180 180 150 180 122 C 180 94 160 64 128 54 Z" fill="#1d4ed8" opacity="0.7"/>
+  <circle cx="100" cy="100" r="14" fill="#60a5fa" opacity="0.5"/>
+  <circle cx="148" cy="150" r="9" fill="#1e40af" opacity="0.6"/>
+
+  <!-- Planetary Ring in front -->
+  <path d="M 32 140 C 50 115, 202 115, 224 140" stroke="#38bdf8" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 38 143 C 54 122, 196 122, 218 143" stroke="#facc15" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Iconic Kurzgesagt Duck Silhouette / Flat vector character -->
+  <!-- Duck body -->
+  <path d="M 112 118 C 112 110, 120 102, 132 102 C 145 102, 154 110, 154 120 C 154 132, 142 142, 128 142 C 116 142, 112 130, 112 118 Z" fill="#fbbf24"/>
+  <!-- Duck head & beak -->
+  <circle cx="142" cy="98" r="14" fill="#fbbf24"/>
+  <polygon points="154,96 168,100 154,105" fill="#f97316"/>
+  <!-- Eye -->
+  <circle cx="144" cy="95" r="2.5" fill="#0f172a"/>
+  <!-- Wing -->
+  <path d="M 120 120 C 120 115, 128 116, 134 124 C 128 128, 120 126, 120 120 Z" fill="#f59e0b"/>
+
+  <!-- Sparkles / Stars -->
+  <circle cx="70" cy="72" r="3" fill="#fef08a"/>
+  <polygon points="186,60 189,68 197,71 189,74 186,82 183,74 175,71 183,68" fill="#38bdf8"/>
+  <circle cx="198" cy="170" r="2.5" fill="#f472b6"/>
+  <circle cx="62" cy="165" r="3" fill="#67e8f9"/>
+</svg>

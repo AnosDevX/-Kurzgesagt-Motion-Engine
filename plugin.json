@@ -1,0 +1,12 @@
+{
+  "name": "kurzgesagt-motion",
+  "displayName": "Kurzgesagt Motion Studio",
+  "description": "Transform SRT subtitles and voiceover audio into animated Kurzgesagt-style explainer videos with dynamic AI storyboarding, Three.js 2D animation, and procedural sound design.",
+  "version": "1.1.0",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Create a Kurzgesagt-style storyboard from my subtitles and audio",
+    "Render an animated explainer video using the storyboard and Three.js",
+    "Generate a contact sheet preview for my Kurzgesagt video scenes"
+  ]
+}
