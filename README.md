@@ -2,7 +2,7 @@
 
 <img src="assets/logo.svg" alt="Logo" width="170" height="170" />
 
-# 🪐 Kurzgesagt Motion Engine
+# 🪐 Kurzgesagt Motion Video Engine
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Three.js](https://img.shields.io/badge/Three.js-r128-black.svg)](https://threejs.org/)
