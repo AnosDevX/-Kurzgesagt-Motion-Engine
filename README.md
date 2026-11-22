@@ -19,7 +19,7 @@ Turn an **SRT subtitle file** and a **voiceover track** into a finished, high-qu
 You do **not** need to clone the repository to use this skill with your AI assistant.
 
 ### 1. Download the Skill File
-👉 **[Download `kurzgesagt-motion.skill`]([https://github.com/AnosDevX/-Kurzgesagt-Motion-Engine/releases/download/motion_video/srt-kurzgesagt-video.skill]))** *(Single bundle file, ~25 KB)*
+👉**[Download `kurzgesagt-motion.skill`]([https://github.com/AnosDevX/-Kurzgesagt-Motion-Engine/releases/download/motion_video/srt-kurzgesagt-video.skill]))**
 
 ### 2. Install into your AI Assistant
 
