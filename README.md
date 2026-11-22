@@ -1,11 +1,5 @@
 <div align="center">
 
-
-
-https://github.com/user-attachments/assets/844e2f77-54fe-4026-83b7-f28915afac2c
-
-
-
 <img src="assets/logo.svg" alt="Logo" width="170" height="170" />
 
 # 🪐 Kurzgesagt Motion Engine
@@ -15,7 +9,7 @@ https://github.com/user-attachments/assets/844e2f77-54fe-4026-83b7-f28915afac2c
 [![Playwright](https://img.shields.io/badge/Render-Playwright-orange.svg)](https://playwright.dev/)
 
 Turn an **SRT subtitle file** and a **voiceover track** into a finished, high-quality animated explainer video in the dynamic 2D vector motion graphics style.
-
+https://github.com/user-attachments/assets/844e2f77-54fe-4026-83b7-f28915afac2c
 </div>
 
 ---
