@@ -1,17 +1,23 @@
+<div align="center">
+
+<img src="assets/logo.svg" alt="Logo" width="170" height="170" />
+
 # 🪐 Kurzgesagt Motion Engine
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Three.js](https://img.shields.io/badge/Three.js-r128-black.svg)](https://threejs.org/)
 [![Playwright](https://img.shields.io/badge/Render-Playwright-orange.svg)](https://playwright.dev/)
 
-Turn an **SRT subtitle file** and a **voiceover track** into a finished, broadcast-quality animated explainer video in the iconic **Kurzgesagt / "In a Nutshell"** flat-vector motion graphics style.
+Turn an **SRT subtitle file** and a **voiceover track** into a finished, high-quality animated explainer video in the dynamic 2D vector motion graphics style.
+
+</div>
 
 ---
 
 ## 🎬 How It Works
 
 1. **AI Storyboard Director**: Analyzes subtitle timestamps and generates a scene-by-scene visual script with color palettes, visual metaphors, camera easing, and SFX cues.
-2. **Three.js Canvas Engine**: Renders procedural flat-vector scenes with parallax backgrounds, rim lights, glows, and kinetic typography.
+2. **Three.js Canvas Engine**: Renders procedural vector scenes with parallax backgrounds, rim lights, glows, and kinetic typography.
 3. **Headless Chromium Pipeline**: Playwright records deterministic 1080×1920 frames at 30 fps via software WebGL (SwiftShader).
 4. **Procedural SFX & Mux**: NumPy generates dynamic risers, booms, swishes, and ducked background drone audio, merged with the voiceover track via FFmpeg.
 
@@ -20,6 +26,8 @@ Turn an **SRT subtitle file** and a **voiceover track** into a finished, broadca
 ## 📁 Repository Structure
 
 ```text
+├── assets/
+│   └── logo.svg                     # Vector logo
 ├── skills/
 │   └── srt-kurzgesagt-video/
 │       ├── SKILL.md                 # Agent instructions & prompt workflow
@@ -47,8 +55,8 @@ Turn an **SRT subtitle file** and a **voiceover track** into a finished, broadca
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/kurzgesagt-motion.git
-cd kurzgesagt-motion
+git clone https://github.com/AnosDevX/-Kurzgesagt-Motion-Engine.git
+cd -Kurzgesagt-Motion-Engine
 npm install three@0.128.0 @fontsource/anton
 pip install playwright numpy
 python -m playwright install chromium
